@@ -1,2 +1,2 @@
 # study
-study for web
+study ndoe for web
